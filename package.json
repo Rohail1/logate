@@ -1,0 +1,36 @@
+{
+  "name": "logate",
+  "version": "1.0.0",
+  "description": "An advance express logger which can be used to log complete request, along with masking sensitive data while logging. The logs can be stored into a datbase or a file depending upon the options provided.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@me.github.com:Rohail1/logate.git"
+  },
+  "keywords": [
+    "express",
+    "node.js",
+    "nodejs",
+    "javascript",
+    "logger",
+    "es6",
+    "express4",
+    "npm",
+    "node",
+    "mongoose",
+    "mongo",
+    "mysql",
+    "sequelize",
+    "request",
+    "response",
+    "logger",
+    "logate",
+    "logging",
+    "mask"
+  ],
+  "author": "Rohail Najam <rohail@lumous.pk>",
+  "license": "MIT"
+}
